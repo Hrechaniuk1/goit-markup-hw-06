@@ -1016,9 +1016,9 @@ row-gap: 64px;
      align-items: baseline;
  }
 
- .logo-and-text {
-    /* max-width: 264px; */
- }
+.logo-and-text {
+    max-width: 264px;
+}
 
  .form-container-main {
      display: flex;
